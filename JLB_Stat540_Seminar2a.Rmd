@@ -1,7 +1,6 @@
 ---
 title: "JLB_Stat540_Seminar2a"
-output: html_document
-  keep_md: true
+output: github_document
 ---
 
 date: "`r format(Sys.time(), '%d %B, %Y')`"
@@ -36,5 +35,4 @@ Table Header | Second Header
  
  Four times four is ```````r 4*4 ```````
  
- :pray:
 
